@@ -71,91 +71,91 @@
             <div class="st-grid-sizer"></div>
             <div class="st-isotop-item equipo">
               <a href="assets/img/galeria/e1.jpg" class="st-project st-zoom st-lightbox-item st-link-hover-wrap">
-                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/e1.jpg" alt="project1"></div>
+                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/preview/e1.jpg" alt="equipo"></div>
                 <span class="st-link-hover"><i class="fas fa-arrows-alt"></i></span>
               </a>
             </div><!-- .st-isotop-item -->            
 
             <div class="st-isotop-item equipo">
               <a href="assets/img/galeria/e3.jpg" class="st-project st-zoom st-lightbox-item st-link-hover-wrap">
-                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/e3.jpg" alt="project1"></div>
+                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/preview/e3.jpg" alt="equipo"></div>
                 <span class="st-link-hover"><i class="fas fa-arrows-alt"></i></span>
               </a>
             </div><!-- .st-isotop-item --> 
 
             <div class="st-isotop-item equipo">
               <a href="assets/img/galeria/e4.jpg" class="st-project st-zoom st-lightbox-item st-link-hover-wrap">
-                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/e4.jpg" alt="project4"></div>
+                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/preview/e4.jpg" alt="equipo"></div>
                 <span class="st-link-hover"><i class="fas fa-arrows-alt"></i></span>
               </a>
             </div><!-- .st-isotop-item -->
 
             <div class="st-isotop-item equipo">
               <a href="assets/img/galeria/e5.jpg" class="st-project st-zoom st-lightbox-item st-link-hover-wrap">
-                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/e5.jpg" alt="project5"></div>
+                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/preview/e5.jpg" alt="equipo"></div>
                 <span class="st-link-hover"><i class="fas fa-arrows-alt"></i></span>
               </a>
             </div><!-- .st-isotop-item -->
 
             <div class="st-isotop-item equipo">
               <a href="assets/img/galeria/e6.jpg" class="st-project st-zoom st-lightbox-item st-link-hover-wrap">
-                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/e6.jpg" alt="project6"></div>
+                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/preview/e6.jpg" alt="equipo"></div>
                 <span class="st-link-hover"><i class="fas fa-arrows-alt"></i></span>
               </a>
             </div><!-- .st-isotop-item -->
 
             <div class="st-isotop-item instalaciones">
               <a href="assets/img/galeria/e7.jpg" class="st-project st-zoom st-lightbox-item st-link-hover-wrap">
-                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/e7.jpg" alt="project6"></div>
+                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/preview/e7.jpg" alt="instalaciones"></div>
                 <span class="st-link-hover"><i class="fas fa-arrows-alt"></i></span>
               </a>
             </div><!-- .st-isotop-item -->
 
             <div class="st-isotop-item clientes">
               <a href="assets/img/galeria/e8.jpg" class="st-project st-zoom st-lightbox-item st-link-hover-wrap">
-                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/e8.jpg" alt="project6"></div>
+                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/preview/e8.jpg" alt="clientes"></div>
                 <span class="st-link-hover"><i class="fas fa-arrows-alt"></i></span>
               </a>
             </div><!-- .st-isotop-item -->
 
             <div class="st-isotop-item clientes">
               <a href="assets/img/galeria/e9.jpg" class="st-project st-zoom st-lightbox-item st-link-hover-wrap">
-                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/e9.jpg" alt="project6"></div>
+                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/preview/e9.jpg" alt="clientes"></div>
                 <span class="st-link-hover"><i class="fas fa-arrows-alt"></i></span>
               </a>
             </div><!-- .st-isotop-item -->
 
             <div class="st-isotop-item clientes">
               <a href="assets/img/galeria/e10.jpg" class="st-project st-zoom st-lightbox-item st-link-hover-wrap">
-                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/e10.jpg" alt="project6"></div>
+                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/preview/e10.jpg" alt="clientes"></div>
                 <span class="st-link-hover"><i class="fas fa-arrows-alt"></i></span>
               </a>
             </div><!-- .st-isotop-item -->
 
             <div class="st-isotop-item clientes">
               <a href="assets/img/galeria/e11.jpg" class="st-project st-zoom st-lightbox-item st-link-hover-wrap">
-                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/e11.jpg" alt="project6"></div>
+                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/preview/e11.jpg" alt="clientes"></div>
                 <span class="st-link-hover"><i class="fas fa-arrows-alt"></i></span>
               </a>
             </div><!-- .st-isotop-item -->
 
             <div class="st-isotop-item clientes">
               <a href="assets/img/galeria/e12.jpg" class="st-project st-zoom st-lightbox-item st-link-hover-wrap">
-                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/e12.jpg" alt="project6"></div>
+                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/preview/e12.jpg" alt="clientes"></div>
                 <span class="st-link-hover"><i class="fas fa-arrows-alt"></i></span>
               </a>
             </div><!-- .st-isotop-item -->
 
             <div class="st-isotop-item instalaciones">
               <a href="assets/img/galeria/e14.jpg" class="st-project st-zoom st-lightbox-item st-link-hover-wrap">
-                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/e14.jpg" alt="project6"></div>
+                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/preview/e14.jpg" alt="instalaciones"></div>
                 <span class="st-link-hover"><i class="fas fa-arrows-alt"></i></span>
               </a>
             </div><!-- .st-isotop-item -->
 
             <div class="st-isotop-item instalaciones">
               <a href="assets/img/galeria/e13.jpg" class="st-project st-zoom st-lightbox-item st-link-hover-wrap">
-                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/e13.jpg" alt="project6"></div>
+                <div class="st-project-img st-zoom-in"><img src="assets/img/galeria/preview/e13.jpg" alt="instalaciones"></div>
                 <span class="st-link-hover"><i class="fas fa-arrows-alt"></i></span>
               </a>
             </div><!-- .st-isotop-item -->

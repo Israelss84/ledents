@@ -145,7 +145,9 @@
                     <span>Contamos con</span> <b>Odontopediatría  </b>
                   </h1>
                   <div class="st-hero-subtitle">También conocida como odontología pediátrica, nos encargamos del cuidado de la salud bucal de los más chiquitos</div>
-                  
+                  <div class="st-hero-btn mt-5">
+                        <a href="http://agendamiento.softwaredentalink.com/agendas/online/35a1c717ca6069a41718aee24961c787ac4ef390" class="st-btn st-style1 st-color1 st-smooth-move" target="_blank">Haz una cita </a>
+                      </div>
                 </div>
               </div>
             </div>
@@ -187,8 +189,8 @@
                     </h1>
                     <div class="st-hero-subtitle">En el pago inicial en Ortodoncia</div>
                     <div class="st-hero-btn mt-5">
-                      <a href="#" class="st-btn st-style1 st-color1 st-smooth-move">Saber más</a>
-                    </div>
+                        <a href="http://agendamiento.softwaredentalink.com/agendas/online/35a1c717ca6069a41718aee24961c787ac4ef390" class="st-btn st-style1 st-color1 st-smooth-move" target="_blank">Haz una cita </a>
+                      </div>
                   </div>
                 </div>
               </div>
