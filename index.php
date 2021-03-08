@@ -12,7 +12,7 @@
   <meta property="og:type" content="website">
   <meta property="og:description" content="Somos una clínica dental dedicada al cuidado y mejoramiento de la salud bucal con odontologos certificados y comprometidos con su trabajo.">
   <meta property="og:url" content="https://clinica-ledents.herokuapp.com">
-  <meta property="og:image" content="{{asset('img/LeDents.jpg')}}" />  
+  <meta property="og:image" content="assets/img/LeDents.jpg" />  
   
   <!-- Page Title -->
   <title>Clínica Dental Le Dents</title>
