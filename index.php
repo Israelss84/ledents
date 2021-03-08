@@ -6,7 +6,13 @@
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="author" content="">
+  <meta name="author" content="Israel Sanchez">
+  <meta property="fb:app_id" content="438912550714779" />
+  <meta property="og:title" content="Clínica Dental Le Dent's">
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="Somos una clínica dental dedicada al cuidado y mejoramiento de la salud bucal con odontologos certificados y comprometidos con su trabajo.">
+  <meta property="og:url" content="https://clinica-ledents.herokuapp.com">
+  <meta property="og:image" content="{{asset('img/LeDents.jpg')}}" />  
   
   <!-- Page Title -->
   <title>Clínica Dental Le Dents</title>
